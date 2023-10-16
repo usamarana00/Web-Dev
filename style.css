@@ -1,0 +1,156 @@
+body{
+	background-color: #61767F;
+
+}
+
+button {
+  background-color: #803716;
+  color: white;
+  padding: 5px 30px;
+  display: inline-block;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  font-size: 16px;
+}
+
+.navbar-brand img{
+  
+
+  border-radius: 25%; 
+  width: 100px;
+  height: 100px;
+}
+.aboutmename{
+	color: #FDFEFF  ; 
+	font-size:50px;
+  
+	font-family:'Times New Roman', Times, serif;
+	
+}
+
+.aboutmesub{
+	color:#FDFEFF; 
+	font-size:20px;
+  font-weight: 600;
+	font-family:'Times New Roman', Times, serif;
+	
+}
+
+.aboutmetext{
+	color:#61767F; 
+	font-size:18px;
+  font-weight: 600;
+	font-family:'Times New Roman', Times, serif;
+	
+}
+
+.aboutmeheadings{
+	color: black; 
+	font-size:25px;
+	font-family:sans-serif;
+	
+}
+
+.custom-card {
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width: 1000px;
+    height: 450px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2); 
+    transition: box-shadow 0.3s ease; 
+    transition: transform 0.3s ease;
+}
+
+.resumefont {
+  color: #803716;
+  font-size: 40px;
+  text-align: center; 
+  font-family: 'Times New Roman', Times, serif;
+  margin-left: 190px;
+  margin-bottom: 60px;
+  text-shadow: 5px 5px 3px #fff;
+  font-weight: bold;
+}
+
+	
+.resume-card {
+    background-color: rgb(243, 238, 212);
+    border: 1px solid #ccc;
+    border-radius: 5px;
+	width: 800px; 
+    height: 200px; 
+	box-shadow: 5px 5px 8px rgba(0, 0, 0, 0.2); 
+   
+  }
+  
+.resumeheadings{
+	color: black; 
+  font-weight:bold;
+	font-size:25px;
+	font-family:'Times New Roman', Times, serif;
+	font-style: italic;
+
+	margin-top: 30px;
+	margin-left: 10px;
+}
+
+
+.resumesub{
+	color: black; 
+  text-align: justify;
+  font-family: 600;
+  font-style: bold;
+	font-size:20px;
+	font-family:'Times New Roman', Times, serif;
+
+}
+
+ 
+.contact-card {
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+	width: 600px; 
+    height: 260px; 
+  }
+  
+.card-body
+{
+  font-family: 'Times New Roman', Times, serif;
+  text-align: justify;
+}
+
+.my-image {
+  display: block;
+
+  border-radius: 50%; 
+  width: 150px;
+  height: 150px;
+}
+
+.bullet{
+	list-style-type: square; 
+	margin-right: -100px;
+}
+
+.form-label {
+  width: 100px; 
+  display: inline-block; 
+}
+
+.form-input {
+  width: 200px; 
+  margin-left: 10px; 
+}
+
+
+
+
+
+
+
+
+
